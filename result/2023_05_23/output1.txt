@@ -1,0 +1,9 @@
+参数：
+MLP：1500*256*3
+lr = 1e-4  # 学习率
+batch_size = 500  # batch
+epoch = 2000  # 训练次数
+val_time = 100  # 每训练多少次验证一次
+target_w = 50  # 正例多点权值
+
+
